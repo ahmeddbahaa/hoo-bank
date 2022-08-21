@@ -2,44 +2,44 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 
 export const navLinks = [
   {
-    id: "home",
-    title: "Home",
+    id: "inicio",
+    title: "Inicio",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "servicios",
+    title: "Servicios",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "proyectos",
+    title: "Proyectos",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "clientes",
+    title: "Clientes",
   },
 ];
 
 export const features = [
   {
-    id: "feature-1",
+    id: "servicio-1",
     icon: star,
-    title: "Rewards",
+    title: "DESARROLLO DE PRODUCTOS",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Creación de la idea y/o concepto. Análisis de viabilidad. Ensayos de formulación y procesos. Determinación de vida útil. Evaluación sensorial. Validación del producto.",
   },
   {
-    id: "feature-2",
+    id: "servicio-2",
     icon: shield,
-    title: "100% Secured",
+    title: "OPTIMIZACIÓN DE PROCESOS",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Diagnósticos en planta. Reducción de defectos. Incrementos de calidad. Incorporación de tecnología. Planificación estratégica. Mejora continua.",
   },
   {
-    id: "feature-3",
+    id: "servicio-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "CAPACITACIÓN Y FORMACIÓN",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Calidad de leche. Elaboración de quesos. Elaboración de dulce de leche. Elaboración de yogur Manipulación de alimentos. Buenas Prácticas de Manufactura. HACCP.",
   },
 ];
 
@@ -73,17 +73,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Metrica 1",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Metrica 2",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Metrica 3",
     value: "$230M+",
   },
 ];
@@ -111,31 +111,6 @@ export const footerLinks = [
       {
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
-      },
-    ],
-  },
-  {
-    title: "Community",
-    links: [
-      {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
-      },
-      {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
-      },
-      {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
       },
     ],
   },
